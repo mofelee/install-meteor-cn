@@ -6,3 +6,7 @@
 ```shell
 curl https://raw.githubusercontent.com/MofeLee/install-meteor-cn/master/install-meteor.sh | sh
 ```
+
+====
+
+MIT License
